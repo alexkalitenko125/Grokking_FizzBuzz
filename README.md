@@ -17,6 +17,9 @@ Players generally sit in a circle. The player designated to go first says the nu
 <img src="./1.png"  width="500" 
      height=auto>
 
+<img src="./2.png"  width="500" 
+     height=auto>
+
 <img src="./3.png"  width="500" 
      height=auto>
 
